@@ -7,7 +7,6 @@ This repository contains all the tasks completed during my Oasis Infobyte Web De
 ### Task 1 - Landing Page
 - HTML
 - CSS
-- JavaScript
 
 ### Task 2 - Personal Portfolio
 - Responsive Design
